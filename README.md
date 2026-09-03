@@ -128,15 +128,17 @@ Explique brevemente a solução desenvolvida.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://
-github-readme-stats.vercel.app/api?
-username=fabio-mariano-dev&show_icons=true&
-theme=tokyonight&count_private=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=fabio-mariano-dev&show_icons=true&theme=transparent&hide_border=true"
+    height="165"
+    alt="Estatísticas do GitHub"
+  />
 
-<img height="170" src="https://
-github-readme-stats.vercel.app/api/top-langs/?
-username=fabio-mariano-dev&layout=compact&
-theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-mariano-dev&layout=compact&theme=transparent&hide_border=true"
+    height="165"
+    alt="Principais linguagens"
+  />
 </p>
 
 ---
