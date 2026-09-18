@@ -62,24 +62,43 @@ Atualmente, curso **Ciência da Computação** e continuo aprofundando meus conh
 
 Aqui estão alguns dos projetos que representam minha evolução como desenvolvedor.
 
-### 🔹 Projeto 01 — [Nome do projeto]
+### 🔹 Projeto 01 — FinanCore
+
+<img width="1330" height="630" alt="dashborad" src="https://github.com/user-attachments/assets/c064a086-19be-4e7d-abd7-0cc7a505355b" />
 
 **Problema:**
-Descreva brevemente qual problema o projeto resolve.
+A gestão financeira pode se tornar complexa quando contas a pagar, contas a receber e movimentações ficam descentralizadas, dificultando o acompanhamento dos lançamentos e do fluxo financeiro.
 
 **Solução:**
-Explique o que foi desenvolvido e como a aplicação resolve o problema.
+O FinanCore é uma aplicação web para gestão financeira, desenvolvida com arquitetura em camadas e separação de responsabilidades. A aplicação permite organizar contas a pagar e receber, fornecedores e movimentações financeiras, oferecendo uma base estruturada para acompanhar os lançamentos e o fluxo de caixa.
 
 **Tecnologias:**
-`C#` `ASP.NET` `.NET` `SQL Server`
+`C#` `ASP.NET Core` `.NET 10` `Blazor` `SQL Server` `FluentValidation` `JWT`
 
 **Principais funcionalidades:**
 
-* Funcionalidade 1
-* Funcionalidade 2
-* Funcionalidade 3
+Gestão de contas a pagar
+Gestão de contas a receber
+Cadastro e gerenciamento de fornecedores e clientes
+Registro e acompanhamento de movimentações financeiras
+Fluxo de caixa
+Autenticação e autorização com JWT
+Soft delete e controle de concorrência
+Validações de dados
+API REST integrada à aplicação web
 
-🔗 **[Ver projeto](#)**
+Interface:
+<img width="2014" height="880" alt="login" src="https://github.com/user-attachments/assets/13314a06-fe38-4e2c-8f68-90b9b3ba4b2f" />
+
+<img width="2469" height="847" alt="Contas a Pagar" src="https://github.com/user-attachments/assets/c10a9e7f-d35e-41ec-b46c-cfdd8ffdfb1b" />
+
+<img width="2475" height="910" alt="Contas a Receber" src="https://github.com/user-attachments/assets/083e2fd3-783f-4349-a915-3aaaea08c55b" />
+
+<img width="2478" height="946" alt="Movimentacoes" src="https://github.com/user-attachments/assets/2fbaee88-f623-49e0-803a-56aa81715196" />
+
+<img width="1343" height="628" alt="fluxo de caixa" src="https://github.com/user-attachments/assets/bd8932d3-ddf4-4eba-94eb-685a3158893f" />
+
+🔗 **[Ver projeto](https://github.com/fabio-mariano-dev/FinanCore)**
 
 ---
 
@@ -99,30 +118,6 @@ Explique brevemente a solução desenvolvida.
 * Funcionalidade 1
 * Funcionalidade 2
 * Funcionalidade 3
-
-🔗 **[Ver projeto](#)**
-
----
----
-
-### 🔹 Projeto 03 — [Nome do projeto]
-
-**Problema:**
-Descreva o problema abordado pelo projeto.
-
-**Solução:**
-Explique brevemente a solução desenvolvida.
-
-**Tecnologias:**
-`C#` `Blazor` `SQL Server` `HTML` `CSS`
-
-**Principais funcionalidades:**
-
-* Funcionalidade 1
-* Funcionalidade 2
-* Funcionalidade 3
-
-🔗 **[Ver projeto](#)**
 
 ---
 ## 📊 GitHub Stats
