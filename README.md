@@ -14,11 +14,11 @@
 </p>
 
 ---
-Desenvolvedor com foco no ecossistema **C# / .NET**, atuando no desenvolvimento e manutenção de sistemas empresariais, APIs e soluções voltadas para processos de negócio.
+Desenvolvedor com foco no ecossistema **C# / .NET**, atuando no desenvolvimento e manutenção de **sistemas empresariais e ERP**, APIs e soluções voltadas para processos de negócio.
 
-Tenho experiência trabalhando com **regras de negócio, banco de dados, integrações, relatórios e interfaces web**, buscando sempre transformar necessidades reais em soluções funcionais e eficientes.
+Tenho experiência trabalhando com **regras de negócio, banco de dados, integrações, relatórios e interfaces web**, além de suporte e análise de sistemas, buscando transformar necessidades reais em soluções funcionais e eficientes.
 
-Atualmente, curso **Ciência da Computação** e continuo aprofundando meus conhecimentos em desenvolvimento Full Stack, arquitetura de aplicações e tecnologias do ecossistema .NET.
+Atualmente, curso **Ciência da Computação** e continuo aprofundando meus conhecimentos em desenvolvimento **Full Stack**, arquitetura de aplicações e tecnologias do ecossistema **.NET**.
 
 ---
 
