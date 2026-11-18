@@ -8,7 +8,7 @@
   <a href="https://github.com/fabio-mariano-dev">
     <img src="https://img.shields.io/badge/GitHub-fabio--mariano--dev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/fabio-mariano-b024393b3/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
@@ -166,7 +166,7 @@ Estou aberto a oportunidades, networking e projetos relacionados a desenvolvimen
   <a href="https://github.com/fabio-mariano-dev">
     <img src="https://img.shields.io/badge/GitHub-fabio--mariano--dev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/fabio-mariano-b024393b3/">
     <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
