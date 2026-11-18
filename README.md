@@ -126,7 +126,7 @@ O CotaCompras é um sistema de compras corporativas que leva o pedido da requisi
 - Controle de concorrência com rowversion e histórico de todas as etapas
 - Testes SQL das procedures, testes unitários e testes de integração com a API real
 
-https://github.com/user-attachments/assets/fc709002-c91f-4d2a-bf7e-352954554cd0
+https://github.com/user-attachments/assets/8f6afe82-60b8-4787-a68f-6b55dc8b52f3
 
 🔗 **[Ver projeto](https://github.com/fabio-mariano-dev/CotaCompras)**
 
