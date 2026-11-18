@@ -147,6 +147,14 @@ https://github.com/user-attachments/assets/8f6afe82-60b8-4787-a68f-6b55dc8b52f3
   />
 </p>
 
+<p align="left">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=fabio-mariano-dev&bg_color=00000000&color=8b949e&title_color=39d353&line=39d353&point=26a641&area=true&area_color=26a641&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias"
+    width="100%"
+    alt="Gráfico de contribuições"
+  />
+</p>
+
 ---
 
 ## 📚 Atualmente
