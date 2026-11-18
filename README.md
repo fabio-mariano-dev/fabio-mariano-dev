@@ -30,7 +30,7 @@ Atualmente, curso **Ciência da Computação** e continuo aprofundando meus conh
   <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# e .NET"/>
 </p>
 
-`C#` `.NET` `.NET Core` `.NET Framework` `APIs`
+`C#` `.NET` `.NET Core` `.NET Framework` `ASP.NET Core` `APIs REST` `Dapper` `Entity Framework Core`
 
 ### Frontend
 
@@ -38,7 +38,7 @@ Atualmente, curso **Ciência da Computação** e continuo aprofundando meus conh
   <img src="https://skillicons.dev/icons?i=html,css" alt="HTML e CSS"/>
 </p>
 
-`Blazor` `HTML` `CSS`
+`Blazor` `MudBlazor` `HTML` `CSS`
 
 ### Database
 
@@ -46,7 +46,7 @@ Atualmente, curso **Ciência da Computação** e continuo aprofundando meus conh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/>
 </p>
 
-`SQL Server`
+`SQL Server` `Stored Procedures`
 
 ### Tools
 
@@ -77,15 +77,15 @@ O FinanCore é uma aplicação web para gestão financeira, desenvolvida com arq
 
 **Principais funcionalidades:**
 
-Gestão de contas a pagar
-Gestão de contas a receber
-Cadastro e gerenciamento de fornecedores e clientes
-Registro e acompanhamento de movimentações financeiras
-Fluxo de caixa
-Autenticação e autorização com JWT
-Soft delete e controle de concorrência
-Validações de dados
-API REST integrada à aplicação web
+- Gestão de contas a pagar
+- Gestão de contas a receber
+- Cadastro e gerenciamento de fornecedores e clientes
+- Registro e acompanhamento de movimentações financeiras
+- Fluxo de caixa
+- Autenticação e autorização com JWT
+- Soft delete e controle de concorrência
+- Validações de dados
+- API REST integrada à aplicação web
 
 Interface:
 <img width="2014" height="880" alt="login" src="https://github.com/user-attachments/assets/13314a06-fe38-4e2c-8f68-90b9b3ba4b2f" />
@@ -102,22 +102,33 @@ Interface:
 
 ---
 
-### 🔹 Projeto 02 — [Nome do projeto]
+### 🔹 Projeto 02 — CotaCompras
+
+<img width="1358" height="636" alt="image-1795009287937" src="https://github.com/user-attachments/assets/e0e41cb1-661e-44fa-9e25-70534171114f" />
 
 **Problema:**
-Descreva o problema abordado pelo projeto.
+Em muitas empresas a compra ainda acontece por e-mail e planilha: o setor pede por mensagem, o comprador cota por telefone e não fica registrado quem aprovou nem por que um fornecedor foi escolhido.
 
 **Solução:**
-Explique brevemente a solução desenvolvida.
+O CotaCompras é um sistema de compras corporativas que leva o pedido da requisição interna até a aprovação da proposta vencedora. Os fornecedores respondem às cotações por um portal próprio, o comprador compara as propostas no mapa comparativo e cada etapa fica registrada no histórico. Todo o acesso a dados é feito por stored procedures executadas com Dapper.
 
 **Tecnologias:**
-`C#` `Blazor` `SQL Server` `HTML` `CSS`
+`C#` `ASP.NET Core` `.NET 10` `Blazor WebAssembly` `MudBlazor` `SQL Server` `Stored Procedures` `Dapper` `FluentValidation` `JWT` `xUnit`
 
 **Principais funcionalidades:**
 
-* Funcionalidade 1
-* Funcionalidade 2
-* Funcionalidade 3
+- Requisições de compra com aprovação ou rejeição com motivo
+- Geração de cotação a partir da requisição aprovada, com sugestão de fornecedores por categoria
+- Portal do fornecedor: cada empresa vê e responde apenas às próprias cotações
+- Mapa comparativo com o menor preço de cada item em destaque
+- Justificativa obrigatória ao escolher uma proposta que não é a de menor valor
+- Segregação de funções: quem escolhe a proposta não pode aprová-la
+- Controle de concorrência com rowversion e histórico de todas as etapas
+- Testes SQL das procedures, testes unitários e testes de integração com a API real
+
+https://github.com/user-attachments/assets/fc709002-c91f-4d2a-bf7e-352954554cd0
+
+🔗 **[Ver projeto](https://github.com/fabio-mariano-dev/CotaCompras)**
 
 ---
 ## 📊 GitHub Stats
